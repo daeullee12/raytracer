@@ -33,6 +33,6 @@ Ray tracing is a rendering technique that traces rays from the camera through ea
 
 ## Output Images
 
-![Rendered Image](basic.bmp)
-![Rendered Image](spheramid.bmp)
-![Rendered Image](mesh.bmp)
+![Rendered Image](images/basic.bmp)
+![Rendered Image](images/spheramid.bmp)
+![Rendered Image](images/mesh.bmp)
